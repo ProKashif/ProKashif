@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **Fireflies, Swvl, Open Source**
 
-- 👨‍💻 All of my projects are available at [https://my.visualcv.com/imkashif/](https://my.visualcv.com/imkashif/)
-
 - 💬 Ask me about **Mobile and React.js Developer**
 
 - 📫 How to reach me **kashifabrar7280@gmail.com**
