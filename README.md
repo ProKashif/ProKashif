@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Fireflies, Swvl, Open Source**
 
-- 💬 Ask me about **Mobile and React.js Developer**
+- 💬 Ask me about **Mobile and Web related issues, Open source as well**
 
 - 📫 How to reach me **kashifabrar7280@gmail.com**
 
