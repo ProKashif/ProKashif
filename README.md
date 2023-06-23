@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_kashifahmed" target="blank"><img src="https://img.shields.io/twitter/follow/_kashifahmed?logo=twitter&style=for-the-badge" alt="_kashifahmed" /></a> </p>
 
-- 🔭 I’m currently working on **Fireflies, Swvl, Open Source**
+- 🔭 I’m currently working on **Fireflies, Open Source**
 
 - 💬 Ask me about **Mobile and Web related issues, Open source as well**
 
