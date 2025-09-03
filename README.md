@@ -41,8 +41,8 @@ I'm **ProKashif**, a passionate developer dedicated to building impactful and in
 
 #### 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/kashif-ahmed-0a7781115/)
-[![Twitter](https://x.com/_KashifAhmed)
+[![LinkedIn](https://www.linkedin.com/in/kashif-ahmed-0a7781115/)]
+[![Twitter](https://x.com/_KashifAhmed)]
 
 ---
 
