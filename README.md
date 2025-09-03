@@ -41,9 +41,8 @@ I'm **ProKashif**, a passionate developer dedicated to building impactful and in
 
 #### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?logo=githubpages&logoColor=white)](https://your-website.com)
+[![LinkedIn](https://www.linkedin.com/in/kashif-ahmed-0a7781115/)
+[![Twitter](https://x.com/_KashifAhmed)
 
 ---
 
