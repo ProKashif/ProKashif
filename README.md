@@ -1,15 +1,19 @@
 <!-- Animated Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=32&amp;pause=1000&amp;color=007ACC&amp;width=650&amp;lines=Hi%2C+I'm+ProKashif!;Building+Innovative+Apps+%26+Tools;Full-Stack+Developer+%7C+Mobile+%7C+Web+%7C+Backend;Always+Learning%2C+Always+Coding!" alt="Animated banner">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=32&amp;pause=1000&amp;color=007ACC&amp;width=650&amp;lines=Hi%2C+I'm+ProKashif!;Delivering+Production-Ready+Apps+%26+Libraries;Full-Stack+Software+Engineering+Expert" alt="Profile banner"/>
 </p>
 
 <hr/>
 
-<h2 align="center">✨ Welcome!</h2>
+<h2 align="center">👋 Professional Status</h2>
 
 <p align="center">
-I'm <b>ProKashif</b> — a dedicated full-stack developer passionate about creating impactful solutions across web, mobile, and backend. <br/>
-I believe in collaboration, clean code, and building products that empower users and businesses alike. 🚀
+  <b>ProKashif</b> — an accomplished full-stack software engineer renowned for creating reliable, innovative, and scalable solutions across web, mobile, and backend platforms.<br/>
+  I turn complex problems into seamless user experiences, and my open-source libraries and production apps are recognized for their impact and quality.<br/><br/>
+  
+  I believe in clean architecture, transparent collaboration, and elevating products through technical mastery. Companies and developers value my strong communication, ownership, and dedication to delivery at scale.<br/><br/>
+
+  Always interested in new opportunities—whether joining ambitious teams, consulting, or collaborating on impactful tech. Let’s connect and build exceptional solutions together!
 </p>
 
 <hr/>
@@ -39,7 +43,6 @@ I believe in collaboration, clean code, and building products that empower users
 <hr/>
 
 <h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center" style="font-size: 1.35em;">
   <b>Total Public Commits:</b><br/>
   <span style="font-size:2em;color:#2dba4e;"><b>9,417+</b></span>
@@ -56,7 +59,6 @@ I believe in collaboration, clean code, and building products that empower users
 <hr/>
 
 <h3 align="center">🏆 Open Source Focus</h3>
-
 <ul align="center">
   <li>Active in cross-platform mobile, backend & frontend engineering</li>
   <li>Releases production-grade libraries & tools</li>
@@ -66,7 +68,6 @@ I believe in collaboration, clean code, and building products that empower users
 <hr/>
 
 <h3 align="center">☕ Buy Me a Coffee</h3>
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/kashif_ahmed" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="170" >
@@ -76,7 +77,6 @@ I believe in collaboration, clean code, and building products that empower users
 <hr/>
 
 <h3 align="center">📬 Connect with Me</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/kashif-ahmed-0a7781115/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -94,4 +94,4 @@ I believe in collaboration, clean code, and building products that empower users
 
 <p align="center">
   <em>Thanks for visiting! ⭐ If you like my work, consider following, starring, or reaching out for collaboration.</em>
-</p>.
+</p>
