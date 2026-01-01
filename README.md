@@ -14,7 +14,6 @@
 - Dedicated to clean architecture, transparent collaboration, and technical excellence
 - Trusted for clear communication, ownership, and delivering at scale
 
-> **Open to new opportunities!**  
 > Let’s connect to create exceptional solutions together.
 
 ---
